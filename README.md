@@ -1,4 +1,3 @@
-# fr-tv
 #EXTM3U
 #EXTINF:-1 ,TF1
 http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/tf1hl874093481.m3u8
